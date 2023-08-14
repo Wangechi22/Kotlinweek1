@@ -1,10 +1,4 @@
 fun main(args: Array<String>) {
-    //fizz buzz question
-    //using for loop and range of numbers 1-100
-    //numbers divisible by 3 and 5 print FizzBuzz
-    //numbers divisible by 3 Fizz
-    //numbers divisible by 5 Buzz
-
 
     for (x in 1..100){
         if (x % 3 == 0){
@@ -21,3 +15,9 @@ fun main(args: Array<String>) {
        }
     }
 }
+//fizz buzz question
+//using for loop and range of numbers 1-100
+//numbers divisible by 3 and 5 print FizzBuzz
+//numbers divisible by 3 Fizz
+//numbers divisible by 5 Buzz
+
